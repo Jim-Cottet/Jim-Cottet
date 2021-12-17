@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jim-Cottet
 - 👀 I’m interested in Web Developpement
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MongoDB atlas... And CSS. I will alwas learn CSS
+- 🌱 I’m currently learning JavaScript, Node.js, Express.js, MongoDB atlas... And CSS.
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ? Don't
 
